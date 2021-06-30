@@ -1,8 +1,8 @@
-# javascript_challenge
+# javascript_challenge - UFO SIGHTINGS!
+![649581fcaa9db36ecab7f03309a1fe9d](https://user-images.githubusercontent.com/77282780/124035785-062af880-d9cb-11eb-91f3-9dcdc6112d46.jpg)
 
-## Background
-
-We here at `ALIENS-R-REAL` have collected all of the eye-witness reports to prove aliens have come to Earth! 
+We here at ALIENS-R-REAL!
+ have collected all of the eye-witness reports to prove aliens have come to Earth! 
 
 ## Level One
 - Create an online database showing all the collected eye-witness reports
